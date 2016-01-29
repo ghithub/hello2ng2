@@ -11,3 +11,5 @@ The quickstart contains
 # hello2ng2
 AngularJS 2 Demo
 >>>>>>> 2e0ec2b9ee6780fdb488a1018ed4650a782e61b1
+
+Angular 2.0 is completely different from AngularJS 1.x. I am getting a little skeptical about the future of Angular.
