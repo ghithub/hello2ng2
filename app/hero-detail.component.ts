@@ -15,4 +15,5 @@ import {Hero} from './hero';
 })
 export class HeroDetailComponent{
    public hero: Hero;
+   constructor(private _heroService: HeroService){}
 }
